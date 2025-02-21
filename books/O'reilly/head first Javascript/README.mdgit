@@ -1,0 +1,1 @@
+# head-first-Javascript initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/lap-shun/head-first-Javascript.gitgit push -u origin main
